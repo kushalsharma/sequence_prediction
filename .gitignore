@@ -64,4 +64,4 @@ fabric.properties
 .idea/httpRequests
 
 .ipynb_checkpoints/
-.__pycache__/
+__pycache__/
