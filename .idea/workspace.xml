@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f8f44-0a38-471a-bbb1-e2fd0ffa1a50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kushal_sharma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/kushal_sharma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sequence_prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sequence_prediction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/stock_prediction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/stock_prediction-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/stock_prediction.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,53 +20,60 @@
     <session id="-828693410">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="py" value="6" />
+          <entry key="csv" value="2" />
+          <entry key="ipynb" value="4" />
+          <entry key="png" value="3" />
+          <entry key="py" value="8" />
+          <entry key="tex" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="IPNB" value="4" />
+          <entry key="Image" value="3" />
+          <entry key="LaTeX source file" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="1350" />
+          <entry key="py" value="2004" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="1350" />
+          <entry key="Python" value="2004" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output_15_0.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output_33_0.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="86" column="83" selection-start-line="86" selection-start-column="83" selection-end-line="86" selection-end-column="83" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1533726032000" expanded="true" signature="631:632" ph="..." />
-                <marker date="1533726032000" expanded="true" signature="2327:2452" ph="..." />
-                <marker date="1533726032000" expanded="true" signature="2965:3335" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/output_11_0.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -72,6 +85,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -81,8 +99,9 @@
         <option value="$PROJECT_DIR$/sequence_prediction.py" />
         <option value="$PROJECT_DIR$/stock_prediction.py" />
         <option value="$PROJECT_DIR$/stock_up.py" />
-        <option value="$PROJECT_DIR$/stock_prediction.ipynb" />
         <option value="$PROJECT_DIR$/stock.py" />
+        <option value="$PROJECT_DIR$/stock_prediction.ipynb" />
+        <option value="$PROJECT_DIR$/.ipynb_checkpoints/stock_prediction-checkpoint.ipynb" />
       </list>
     </option>
   </component>
@@ -96,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,6 +144,25 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="sequence_prediction" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="sequence_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -140,20 +178,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="789" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998565" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -184,60 +221,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/sklearn/utils/mocking.py" />
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/style/core.py" />
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/sklearn/base.py" />
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ONGC.csv" />
+    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/keras/models.py" />
+    <entry file="file://$PROJECT_DIR$/stock.py" />
     <entry file="file://$PROJECT_DIR$/stock_prediction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/stock_prediction-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/sklearn/utils/mocking.py">
+    <entry file="file://$PROJECT_DIR$/notebook.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="200">
+          <caret line="1201" lean-forward="true" selection-start-line="1201" selection-end-line="1201" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/style/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1975">
-          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output_15_0.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="86" column="83" selection-start-line="86" selection-start-column="83" selection-end-line="86" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1533726032000" expanded="true" signature="631:632" ph="..." />
-            <marker date="1533726032000" expanded="true" signature="2327:2452" ph="..." />
-            <marker date="1533726032000" expanded="true" signature="2965:3335" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output_33_0.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/sklearn/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7260">
-          <caret line="492" column="8" selection-start-line="492" selection-start-column="8" selection-end-line="492" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5700">
-          <caret line="431" column="17" selection-start-line="431" selection-start-column="17" selection-end-line="431" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda2/envs/tensorflow/lib/python3.5/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16875">
-          <caret line="1162" selection-start-line="1162" selection-end-line="1162" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output_11_0.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
